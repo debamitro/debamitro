@@ -26,14 +26,18 @@ Here are some ideas to get you started:
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 > I'm currently building an AI-native consulting startup.
+> 
 > I'm open to contractual roles in tech. 
+
+## Command-line apps
+
+- **[Codeagent](https://github.com/debamitro/one-shot-cli-agent)** - tiny portable clone of Claude Code/Open Code
 
 ## Desktop apps
 
 - **[Asimov](https://github.com/debamitro/asimov)** - the AI-enabled IDE for writers
-- **[Codeagent](https://github.com/debamitro/one-shot-cli-agent)** - tiny portable version of Claude Code
-- **[FindBigFolders](https://www.eastcoastsoft.com/products/findbigfolders)** - secure local disk cleanup tool
-- **[Gmail Cleaner](https://www.eastcoastsoft.com/products/gmail-cleaner)** - secure local Gmail cleanup tool
+- **[FindBigFolders](https://www.eastcoastsoft.com/products/findbigfolders?utm_source=github)** - secure local disk cleanup tool
+- **[Gmail Cleaner](https://www.eastcoastsoft.com/products/gmail-cleaner?utm_source=github)** - secure local Gmail cleanup tool
 
 ## MCP servers
 
@@ -41,8 +45,8 @@ Here are some ideas to get you started:
 
 ## Websites
 
-- **[CodePromptFu](https://www.codepromptfu.com)** - a stack overflow for prompts
-- **[Looking for in Life](https://www.lookingforin.life)** - an AI-based quote generator
+- **[CodePromptFu](https://www.codepromptfu.com?utm_source=github)** - a stack overflow for prompts
+- **[Looking for in Life](https://www.lookingforin.life?utm_source=github)** - an AI-based quote generator
   
 ## Web services
 
