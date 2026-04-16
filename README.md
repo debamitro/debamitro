@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> I'm currently building an [AI-native consulting startup](https://www.growthmaxinc.com) which I co-founded.
+> I'm currently building an [custom AI agent startup](https://www.growthmaxinc.com?utm_source=github) which I co-founded.
 > 
-> I'm open to contractual roles in tech. 
+> I also offer [vibe coding assistance services](https://www.eastcoastsoft.com/services?utm_source=github) 
 
 ## Command-line apps
 
