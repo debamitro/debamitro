@@ -56,3 +56,9 @@ Here are some ideas to get you started:
 ## iOS apps
 
 - **[Durga Puja Map of USA](https://apps.apple.com/us/app/durga-puja-map-of-usa/id6752311800)** - map of an Indian cultural festival in USA
+
+## SundAI club projects
+
+These are not all complete projects, they were done in a few hours each at [SundAI Club](https://sundai.club) events.
+
+- [YC-or-not-YC](https://github.com/debamitro/yc-or-not-checker) - a web app which compares your idea with other YC companies' ideas
