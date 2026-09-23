@@ -61,4 +61,10 @@ Here are some ideas to get you started:
 
 These are not all complete projects, they were done in a few hours each at [SundAI Club](https://sundai.club) events.
 
-- [YC-or-not-YC](https://github.com/debamitro/yc-or-not-checker) - a web app which compares your idea with other YC companies' ideas
+- **[YC-or-not-YC](https://github.com/debamitro/yc-or-not-checker)** - a web app which compares your idea with other YC companies' ideas
+- **[Logo on the Green](https://github.com/debamitro/logo-on-the-green)** - a web app which shows how a company logo would look like on the MIT green building
+- **[Motivate.me](https://github.com/debamitro/motivate-me)** - an interactive chat-based web app which tries to motivate the user through simple games
+- **[One Minute Bulletin](https://github.com/debamitro/one-minute-bulletin)** - a web app for generating one minute videos using AI
+- **[Local Notion Mirror](https://github.com/debamitro/local-notion-mirror)** - a web app for introspecting on your notion journal
+- **[Doodle Game 2D](https://github.com/debamitro/doodle-game-2d)** - a web app for creating a simple 2d game from a picture
+- **[GossAipMaster](https://github.com/debamitro/gossAipMaster)** - a web app with a game involving true and fake gossip (created with [Eduardo Baena](https://github.com/baenaedu))
