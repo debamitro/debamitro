@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> I'm currently building an [automated C++ code review product](https://www.derrickcpp.com?utm_source=github) which I co-founded.
+> I'm a solo founder building an [automated C++ code review product](https://www.derrickcpp.com?utm_source=github) .
 > 
 > I also offer [random services around programming](https://www.eastcoastsoft.com/services?utm_source=github) 
 
